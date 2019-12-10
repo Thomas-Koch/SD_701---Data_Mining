@@ -1,5 +1,5 @@
 ---------------------------
-# <center>-- SD 701 : Projet Data Mining --</center>
+# <center>-- SD 701 : Data Mining Project --</center>
 -------------
     
          
